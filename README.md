@@ -1,5 +1,6 @@
 # Artificial-Intelligence
-Machine Learning
+
+### Machine Learning
 
 This work been developed to evaluate a sentiment analysis model. Sentiment analysis is the task of natural language processing which aims to predict whether a piece of text is
 associated with a positive or negative sentiment.
